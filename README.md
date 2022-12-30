@@ -34,4 +34,3 @@ Functionalities Provided in this Project:- </h3><hr>
  - Technologies used:
    - Android Studio (For Front-end & Back-end Development).
    - Java Language used for back-end functionalities.
-
